@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Data Science's Tales - General</title><link href="https://astroVale.github.io/" rel="alternate"></link><link href="https://astroVale.github.io/feeds/general.atom.xml" rel="self"></link><id>https://astroVale.github.io/</id><updated>2010-03-08T11:00:00+01:00</updated><entry><title>My first post</title><link href="https://astroVale.github.io/posts/2010/Mar/08/my-first-post/" rel="alternate"></link><published>2010-03-08T11:00:00+01:00</published><updated>2010-03-08T11:00:00+01:00</updated><author><name>Valentina Scipione</name></author><id>tag:astrovale.github.io,2010-03-08:/posts/2010/Mar/08/my-first-post/</id><summary type="html">&lt;p&gt;This is the content of my first Pelican blog post.
+Happy Women's Day!!!&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the content of my first Pelican blog post.
+Happy Women's Day!!!&lt;/p&gt;</content></entry></feed>
